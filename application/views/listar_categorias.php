@@ -23,7 +23,7 @@
         </tr>
 
         <tr>
-            <td> Março </td> <td> R$120,00 reiais</td> <td> R$81,00 reais </td> <td> R$855,00 reiais</td>
+            <td> Março </td> <td> R$170,00 reiais</td> <td> R$81,00 reais </td> <td> R$855,00 reiais</td>
         </tr>
         </table>
 
