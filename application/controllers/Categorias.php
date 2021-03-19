@@ -20,11 +20,11 @@ class Categorias extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('listar_gastos');
+		$this->load->view('listar_gastoss');
 	}
 
 
-    public function novocategoria()
+    public function novacategoria()
 	{
 		$this->load->view('listar_categorias');
 	}
