@@ -10,7 +10,7 @@
     <h1>Novo Gasto</h1>
     <form action="">
         <label for="data">Data: <input type="date" name="data"></label></br>
-        <label for="descricao">Descrição:<input type="text" name="descrição"></label></br>
+        <label for="descriçao">Descrição:<input type="text" name="descrição"></label></br>
         <label for="valor">Valor: <input type="number" name="valor"></label></br>
         <button type = "button"> Enviar</button>
         <button type = "reset"> limpar</button>
